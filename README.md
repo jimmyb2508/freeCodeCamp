@@ -2,7 +2,7 @@
 
 ![freeCodeCamp Logo](/logo.jpg)
 
-This repository is where I track my progress on my journey freeCodeCamp's online tutorials. I highly recommend them: 
+This repository is where I record progress on my journey through freeCodeCamp's online tutorials. I highly recommend them: 
 
 https://www.freecodecamp.org/
 
